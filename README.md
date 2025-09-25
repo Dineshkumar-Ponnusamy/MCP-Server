@@ -8,6 +8,8 @@ This project implements a simple Model Context Protocol (MCP) server called "Wea
 
 Tested on Apple M1 Air.
 
+<img src="Claude-Desktop.png" alt="Test Result" width="500px"/>
+
 ## Features
 
 - Get current weather information for any city
